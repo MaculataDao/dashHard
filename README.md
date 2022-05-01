@@ -1,4 +1,4 @@
-# Vue | Ethers.js | HardHat | Solidity
+# |Whitedahboard creative tim| Vue | Ethers.js | HardHat | Solidity
 
 Hey there! This template is perfect for your starting needs when building out a dapp.
 
